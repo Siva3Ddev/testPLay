@@ -1,0 +1,900 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Tendon",
+					"index": 0,
+					"meshes": 3,
+					"skinned": false,
+					"vertices": 49017,
+					"triangles": 28296,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Skeletal_Carpal",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1642,
+					"triangles": 2868,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Skeletal_Ulna",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1066,
+					"triangles": 1920,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Skeletal_Radius",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1193,
+					"triangles": 2256,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Skeletal_Metacarpal",
+					"index": 4,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1797,
+					"triangles": 3314,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Trigger Finger001",
+					"index": 5,
+					"meshes": 3,
+					"skinned": false,
+					"vertices": 44094,
+					"triangles": 25624,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object033",
+					"index": 6,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1184,
+					"triangles": 2172,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object035",
+					"index": 7,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 663,
+					"triangles": 1208,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object036",
+					"index": 8,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 697,
+					"triangles": 1214,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object037",
+					"index": 9,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 672,
+					"triangles": 1160,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object038",
+					"index": 10,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 751,
+					"triangles": 1204,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Radial_Nerve",
+					"index": 11,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 12682,
+					"triangles": 25160,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Ulnar_Nerve",
+					"index": 12,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3555,
+					"triangles": 6436,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Carpal",
+					"index": 13,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 204,
+					"triangles": 352,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "De Quervain tenosynovitis.001",
+					"index": 14,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 342,
+					"triangles": 576,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "De Quervain tenosynovitis_cartilage",
+					"index": 15,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 306,
+					"triangles": 168,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Median Nerve",
+					"index": 16,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 10395,
+					"triangles": 20760,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"COLOR": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Body_Genitals001",
+					"index": 17,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 2585,
+					"triangles": 4444,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Tendon",
+				"Muscular_System",
+				"Cartilage",
+				"Skeletal_Skeleton",
+				"Tendon",
+				"Muscular_System",
+				"Skeletal_Skeleton",
+				"cartilage",
+				"De Quervain tenosynovitis_color",
+				"cartilage_B",
+				"Body_Genitals"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "RootNode",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					0.01,
+					0.01,
+					0.01
+				],
+				"scaleCompensation": false,
+				"children": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					18,
+					19
+				]
+			},
+			"1": {
+				"name": "Tendon",
+				"parent": 0,
+				"position": [
+					-24.4528,
+					9.45557,
+					0.65686
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Tendon",
+							"Muscular_System",
+							"Cartilage"
+						]
+					}
+				}
+			},
+			"2": {
+				"name": "Skeletal_Carpal",
+				"parent": 0,
+				"position": [
+					-13.5672,
+					9.76589,
+					0.591834
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"3": {
+				"name": "Skeletal_Ulna",
+				"parent": 0,
+				"position": [
+					1.13282,
+					11.2069,
+					-1.35538
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"4": {
+				"name": "Skeletal_Radius",
+				"parent": 0,
+				"position": [
+					0.422444,
+					11.9361,
+					0.794942
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "Skeletal_Metacarpal",
+				"parent": 0,
+				"position": [
+					-14.7098,
+					10.3416,
+					0.373678
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"6": {
+				"name": "Trigger Finger001",
+				"parent": 0,
+				"position": [
+					-21.7221,
+					8.55166,
+					-1.6568
+				],
+				"rotation": [
+					-173.283,
+					-81.8888,
+					-180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 5,
+						"materials": [
+							"Cartilage",
+							"Tendon",
+							"Muscular_System"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "Object033",
+				"parent": 0,
+				"position": [
+					-17.396,
+					8.97118,
+					5.17592
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 6,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"8": {
+				"name": "Object035",
+				"parent": 0,
+				"position": [
+					-21.7221,
+					8.55166,
+					-1.6568
+				],
+				"rotation": [
+					-173.283,
+					-81.8888,
+					-180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 7,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"9": {
+				"name": "Object036",
+				"parent": 0,
+				"position": [
+					-20.9469,
+					7.32039,
+					-3.64552
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 8,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"10": {
+				"name": "Object037",
+				"parent": 0,
+				"position": [
+					-24.4975,
+					9.06131,
+					0.65686
+				],
+				"rotation": [
+					-90,
+					-24.1031,
+					-4.88556
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 9,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"11": {
+				"name": "Object038",
+				"parent": 0,
+				"position": [
+					-20.0144,
+					9.37233,
+					3.38876
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 10,
+						"materials": [
+							"Skeletal_Skeleton"
+						]
+					}
+				}
+			},
+			"12": {
+				"name": "Radial_Nerve",
+				"parent": 0,
+				"position": [
+					-16.8844,
+					11.7603,
+					0.445822
+				],
+				"rotation": [
+					90,
+					90,
+					0
+				],
+				"scale": [
+					-1,
+					-1,
+					-1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 11,
+						"materials": [
+							""
+						]
+					}
+				}
+			},
+			"13": {
+				"name": "Ulnar_Nerve",
+				"parent": 0,
+				"position": [
+					-14.0947,
+					11.0746,
+					-1.19269
+				],
+				"rotation": [
+					90,
+					90,
+					0
+				],
+				"scale": [
+					-1,
+					-1,
+					-1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 12,
+						"materials": [
+							""
+						]
+					}
+				}
+			},
+			"14": {
+				"name": "Carpal",
+				"parent": 0,
+				"position": [
+					-13.2494,
+					9.49324,
+					0.677866
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 13,
+						"materials": [
+							"cartilage"
+						]
+					}
+				}
+			},
+			"15": {
+				"name": "De Quervain tenosynovitis",
+				"parent": 0,
+				"position": [
+					-12.1153,
+					10.3898,
+					1.95199
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					16,
+					17
+				]
+			},
+			"16": {
+				"name": "De Quervain tenosynovitis.001",
+				"parent": 15,
+				"position": [
+					-2.57059,
+					-2.94591,
+					-0.821184
+				],
+				"rotation": [
+					71.5305,
+					7.60392e-07,
+					14.3751
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 14,
+						"materials": [
+							"De Quervain tenosynovitis_color"
+						]
+					}
+				}
+			},
+			"17": {
+				"name": "De Quervain tenosynovitis_cartilage",
+				"parent": 15,
+				"position": [
+					0.00539207,
+					1.47641,
+					0.413347
+				],
+				"rotation": [
+					90,
+					-0,
+					-90
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 15,
+						"materials": [
+							"cartilage_B"
+						]
+					}
+				}
+			},
+			"18": {
+				"name": "Median Nerve",
+				"parent": 0,
+				"position": [
+					-10.3615,
+					9.24176,
+					0.350873
+				],
+				"rotation": [
+					90,
+					5.00896e-06,
+					180
+				],
+				"scale": [
+					-1,
+					-1,
+					-1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 16,
+						"materials": [
+							""
+						]
+					}
+				}
+			},
+			"19": {
+				"name": "Body_Genitals001",
+				"parent": 0,
+				"position": [
+					-7.72215,
+					12.0122,
+					0.63678
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 17,
+						"materials": [
+							"Body_Genitals"
+						]
+					}
+				}
+			}
+		}
+	}
+}
